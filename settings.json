@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "AMcSunucusu.aternos.me",
+    "ip": "Ethobot.aternos.me",
     "port": 26883,
     "version": "1.21.11",
     "try-creative": false
