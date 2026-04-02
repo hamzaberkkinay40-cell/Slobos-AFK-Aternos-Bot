@@ -6,9 +6,9 @@
     "type": "online"
   },
   "server": {
-    "ip": "Ethobot.aternos.me",
-    "port": 34791,
-    "version": "1.21.11",
+    "ip": "qqqhamza21.mcsh.io",
+    "port": 25565,
+    "version": "1.21.8",
     "try-creative": false
   },
   "position": {
