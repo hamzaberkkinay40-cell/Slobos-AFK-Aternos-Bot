@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "AMcSunucusu.aternos.me.aternos.me",
+    "ip": "AMcSunucusu.aternos.me",
     "port": 26883,
     "version": "1.21.11",
     "try-creative": false
