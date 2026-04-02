@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "Ethobot.aternos.me",
-    "port": 26883,
+    "port": 34791,
     "version": "1.21.11",
     "try-creative": false
   },
